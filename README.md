@@ -17,7 +17,7 @@ This project aims to build a predictive model to determine whether a loan applic
 - [Usage](#usage)  
 - [Results](#results)  
 - [Contributing](#contributing)  
-- [License](#license)  
+  
 
 ## Overview
 
